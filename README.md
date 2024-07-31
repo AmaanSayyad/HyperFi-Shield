@@ -42,19 +42,19 @@ Roadmap Expansion: Stay tuned as we expand our roadmap to include:
 
 Community Engagement: Join our growing community as we
 
-- 🗣️ Host Webinars and Events: Engaging sessions to share knowledge and interact with users.
-- 🤝 Forge Partnerships: Collaborate with key players to broaden our reach and impact.
+-  🗣️ Host Webinars and Events: Engaging sessions to share knowledge and interact with users.
+-  🤝 Forge Partnerships: Collaborate with key players to broaden our reach and impact.
 
 User-Centric Enhancements: Expect user-centric updates such 
 
--📱 Enhanced User Experience: Improved platform navigation and usability.
+- 📱 Enhanced User Experience: Improved platform navigation and usability.
 
--🛡️ Added Security Features: Additional layers of security for user funds.
+- 🛡️ Added Security Features: Additional layers of security for user funds.
 
 Innovation in DeFi: Prepare for pioneering advancements including
 
--🌟 New DeFi Features: Unveiling innovative DeFi functionalities and options.
+- 🌟 New DeFi Features: Unveiling innovative DeFi functionalities and options.
 
--🚀 Advanced Investment Avenues: Introducing more secure and lucrative investment opportunities.
+- 🚀 Advanced Investment Avenues: Introducing more secure and lucrative investment opportunities.
 
 Stay tuned as HyperFi Shield evolves to redefine the landscape of decentralized finance, empowering users with cutting-edge solutions and unparalleled financial resilience. Join us in shaping the future of finance! 🌟💰
